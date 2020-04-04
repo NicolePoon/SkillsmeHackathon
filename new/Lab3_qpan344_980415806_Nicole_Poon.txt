@@ -1,0 +1,14 @@
+2
+(a) .csv
+
+(b) .xls
+
+(c) .xml
+
+(d) .sqlite
+
+(e) txt
+
+(f) The min circuit_lat is : -37.8497; 
+    in Melbourne, Australia; 
+    circuit_id is 1.
